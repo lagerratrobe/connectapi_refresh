@@ -6,7 +6,6 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-options(repos = c(REPO_NAME = "http://3.15.23.52:4242/prod-cran/__linux__/focal/latest"))
 ```
 
 ### Times When Knit
