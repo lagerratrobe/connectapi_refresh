@@ -34,5 +34,5 @@ DT::datatable(epoch_secs,
               class = 'compact cell-border stripe',
               options = list(bPaginate = FALSE, dom = 't')
 )
-
+```
 
